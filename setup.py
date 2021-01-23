@@ -53,7 +53,7 @@ setup(
         'django-countries-plus==1.1',  # 1.2 breaks migrations
         'django-jsonfield==1.0.1',
         'django-jsonfield-compat==0.4.4',
-        'django-filter==1.0,<2',
+        'django-filter==1.1,<2',
         'django-fsm==2.6.0',
         'django-languages-plus==0.1.5',  # 1.x doesn't play with django-countries-plus < 1.2
         'django-pipeline==1.6.11',
